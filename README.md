@@ -1,1 +1,1 @@
-.# conquista
+.# conquista.
